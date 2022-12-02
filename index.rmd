@@ -1,7 +1,5 @@
 ---
-title: "index.rmd"
-author: "Jeff Harding"
-date: "12/2/2022"
+title: "Welcome"
 output: html_document
 ---
 
